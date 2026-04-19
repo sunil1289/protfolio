@@ -30,7 +30,7 @@ const ExperienceCard = ({ item }: { item: ExperienceItem }) => (
   >
     <div className="flex items-center gap-4 mb-4">
       <img
-        src={`/Portfolio/Logo/${item.company}.png`}
+        src={`/Logo/${item.company}.png`}
         alt={item.company}
         className="w-14 h-14 rounded-xl object-contain border border-primaryColor/20 bg-white/5 p-1 flex-shrink-0 sm-mx:w-11 sm-mx:h-11"
         onError={(e) => {

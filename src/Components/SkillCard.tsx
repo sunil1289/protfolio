@@ -78,7 +78,7 @@ const SkillBadge: React.FC<SkillBadgeProps> = ({ skills }) => {
     <>
       {skills.map((skill, index) => {
         const fileName = skillIcons[skill];
-        const iconUrl = fileName ? `/Portfolio/Logo/${fileName}` : null;
+        const iconUrl = fileName ? `/Logo/${fileName}` : null;
 
         return (
           <div key={index} className={skillBadgeClasses.wrapper}>

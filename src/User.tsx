@@ -14,7 +14,7 @@ const ProjectInfo = [
   {
     title: "E-Voting System Using Blockchain",
     desc: "A blockchain-based e-voting platform built with React, Express, Solidity, Ethereum, and MongoDB. Features a React-based user interface for improved voter accessibility and usability. Implements multi-factor voter authentication using facial recognition, OTP verification, and MetaMask. Stores application data securely in MongoDB while ensuring immutable vote records on Ethereum.",
-    image: "/Portfolio/BlockchainVote.png",
+    image: "/BlockchainVote.png",
     live: false,
     technologies: ["React", "Express", "Solidity", "Ethereum", "MongoDB"],
     link: "https://github.com/sunil1289/Blockchain-Based-Evoting",
@@ -23,7 +23,7 @@ const ProjectInfo = [
   {
     title: "Expense Tracker Backend",
     desc: "A backend system for wallet and transaction management built with Spring Boot, Java, PostgreSQL, and Postman. Designed and implemented RESTful APIs for wallet and transaction management. Secured endpoints using JWT-based authentication and role-based access control (RBAC). Used PostgreSQL with JdbcTemplate, optimizing queries for reliable and performant data access.",
-    image: "/Portfolio/ExpenseTracker.png",
+    image: "/ExpenseTracker.png",
     live: false,
     technologies: ["SpringBoot", "Java", "PostgreSQL", "JWT", "Git"],
     link: "https://github.com/sunil1289/expense-tracker-api",
@@ -32,7 +32,7 @@ const ProjectInfo = [
   {
     title: "Job Portal System",
     desc: "A scalable full-stack job portal built with React (TSX), Tailwind CSS, Spring Boot, and MongoDB. Features JWT authentication and role-based access control (RBAC). Designed RESTful APIs with Spring Boot and optimized MongoDB queries for efficient data retrieval. Developed a responsive dark-mode UI using Tailwind CSS for seamless cross-device experience.",
-    image: "/Portfolio/JobPortal.png",
+    image: "/JobPortal.png",
     live: false,
     technologies: [
       "React",
