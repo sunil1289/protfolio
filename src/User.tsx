@@ -7,7 +7,7 @@ import {
 const Info = {
   name: "Sunil Sharma",
   stack: ["Software Engineer", "Blockchain Developer", "DevOps Enthusiast"],
-  bio: "I'm an enthusiastic Java developer with expertise in Spring Boot, REST APIs, and databases. Experienced in full-stack development and building scalable, reliable web applications. Passionate about writing clean and maintainable code.",
+  bio: "Full-stack developer specializing in Java/Spring Boot backends and React frontends with hands-on experience in blockchain, DevOps, and cloud-native workflows. I build scalable, secure web applications from RESTful APIs and JWT-authenticated systems to Dockerized CI/CD pipelines and Ethereum-based DApps.",
 };
 
 const ProjectInfo = [
@@ -82,7 +82,6 @@ const SkillInfo = [
       "Eclipse",
       "VS Code",
       "Canva",
-      "VS Code",
       "Figma",
       "Postman",
       "Swagger",
