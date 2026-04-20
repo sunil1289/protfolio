@@ -85,7 +85,6 @@ const SkillInfo = [
       "Figma",
       "Postman",
       "Swagger",
-
       "Ganche",
       "Web3.js",
     ],
