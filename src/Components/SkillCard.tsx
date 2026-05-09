@@ -9,6 +9,7 @@ const skillIcons: Record<string, string> = {
   "Express JS": "Express.png",
   Figma: "Figma.png",
   Git: "Git.png",
+  "Prometheus": "Prometheus.png",
   SQlite: "SQLite.png",
   Ganche: "Ganche.png",
   GitHub: "GitHub.png",
